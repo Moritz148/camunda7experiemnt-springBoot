@@ -1,0 +1,5 @@
+external-task-client:
+  base-url: http://camunda7:8080/engine-rest
+camunda:
+  bpm:
+    history-level: full
